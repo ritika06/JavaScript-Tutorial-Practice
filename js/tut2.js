@@ -1,0 +1,8 @@
+console.time('Code time')
+console.log(3*4)
+console.log("Hello Ritika")
+console.log(324)
+console.log([34,2,3,56])
+console.log({harry:'this',marks:34})
+console.table({harry:'this',marks:34})
+console.timeEnd('Code time')
